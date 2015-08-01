@@ -4,7 +4,7 @@
 
 ## Инсталация
 
-      $ go get github.com/mytrile/wunderlist
+      $ go get github.com/mytrile/towed
 
 ## Пример
 
