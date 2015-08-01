@@ -32,7 +32,7 @@ func main() {
 
 (The MIT License)
 
-Copyright (c) 2013 Dimitar Kostov <mitko.kostov@gmail.com>
+Copyright (c) 2015 Dimitar Kostov <mitko.kostov@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
